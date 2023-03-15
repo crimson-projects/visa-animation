@@ -2,7 +2,7 @@
 
 # Visa Animation | Crimson
 
-<img src="admin/base.jpg">
+<img src="admin/base.png">
 
 ### by <a href="https://github.com/guli2103"> Gulbahor </a>
 
